@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# C++ build output
+build/
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.pdb
+
+# Visual Studio local files
+.vs/
+*.user
+
+# Runtime data and secrets
+me.info
+priv.key
+*.db
+*.db-journal
+.env
